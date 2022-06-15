@@ -1,0 +1,18 @@
+.btn1, .btn3 {
+    background-color: #17A2B8;
+    color: #fff;
+    }
+    
+    .btn2 {
+    background-color: #174057;
+    color: #fff;
+
+    }
+
+
+.padre {
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+
+}
